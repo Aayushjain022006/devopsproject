@@ -1,0 +1,6 @@
+env
+shellfile
+node_module
+.env
+*.log
+
