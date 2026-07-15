@@ -8,7 +8,7 @@ jobs:
       - run: echo "Build started for $GITHUB_SHA"
       - run: ls -la
 
-jobs:
+job:
   test:
     runs-on: ubuntu-latest
     steps:
