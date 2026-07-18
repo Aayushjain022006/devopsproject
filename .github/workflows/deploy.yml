@@ -1,4 +1,4 @@
-ame: Deploy Site
+name: Deploy Site
 on:
   push:
     branches: [ main ]
