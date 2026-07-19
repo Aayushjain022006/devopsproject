@@ -1,1 +1,7 @@
-
+name: CI
+on: push 
+jobs:
+  build:
+     runs-on: Mac-os
+     steps:
+        - uses: actions/checkout@v4
